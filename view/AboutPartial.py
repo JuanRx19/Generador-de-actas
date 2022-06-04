@@ -1,9 +1,5 @@
 def mostrar():
     return """
-        #### 
-        Este es un ejemplo **.
-
-        ####
-        Proyecto elaborado para @   por Luisa Rincón.
-
+        # Nosotros somos estudiantes de ingeniería de sistemas
+            Proyecto elaborado por Juan Miguel Rojas y Jean Carlos Santacruz.
         """

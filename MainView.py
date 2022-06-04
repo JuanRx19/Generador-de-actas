@@ -61,7 +61,6 @@ class MainView:
             crear_acta_partial(st, self.controller)
         elif self.menu_actual == "Criterios":
             modificar_criterios_partial(st, self.controller)
-            agregar_criterios_partial(st, self.controller)
         elif self.menu_actual == "Historicos":
             st.title("Historicos")
             ver_historicos_partial(st, self.controller)
